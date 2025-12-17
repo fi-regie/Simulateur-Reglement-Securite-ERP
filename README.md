@@ -531,7 +531,7 @@ Cette application est un **outil d'aide à la compréhension** et ne remplace pa
 ## 🔗 Liens et Ressources
 
 ### Applications Connexes
-- 🎯 [Quiz CTS Pro](https://fi-regie.github.io/Quiz-CTS-Pro/) - Testez vos connaissances
+- 🎯 [Quiz CTS Pro](https://fi-regie.github.io/Quiz-CTS) - Testez vos connaissances
 - 📋 [Consultation CTS](https://fi-regie.github.io/reglementation-CTS-/) - Référence réglementaire
 - 🏗️ [Simulateur ERP](https://fi-regie.github.io/Simulateur-Reglement-Securite-ERP/) - Cette application
 
